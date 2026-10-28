@@ -58,22 +58,7 @@ Reducing the maximum sequence length from 200 to 100 tokens made training approx
 
 These experiments demonstrate trade-offs between model size, training speed, input context, and predictive performance.
 
-## Project Structure
 
-
-MiniTransformer/
-├── app.py
-├── README.md
-├── models/
-│   ├── sentiment_model_10epochs.pth
-│   └── sentiment_model_5k_vocab.pth
-└── src/
-    ├── data.py
-    ├── model.py
-    ├── train.py
-    ├── evaluate.py
-    ├── predict.py
-    └── baseline.py
 
 
 ## Getting Started
