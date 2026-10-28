@@ -80,10 +80,10 @@ MiniTransformer/
 
 ### 1. Clone the repository
 
-```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+
+git clone <https://github.com/gammo1/MiniTransformer.git>
 cd MiniTransformer
-```
+
 
 ### 2. Create and activate a virtual environment
 
@@ -122,7 +122,3 @@ The reported accuracy is not a claim of state-of-the-art performance. It represe
 ## Learning Objectives
 
 This project was built to develop practical understanding of Transformer internals, PyTorch model implementation, training and validation, classification metrics, baseline comparisons, and controlled experimentation.
-
-## License
-
-Add a license before distributing this project if you want to specify how others may reuse the code.
